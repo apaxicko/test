@@ -6,3 +6,6 @@
 6. git add <file_name>
 7. git commit -m "comments"
 8. git push <name> <branch_name>
+
+- git checkout -b <branch_name> - Переключить ветку
+- git branch - Список веток
