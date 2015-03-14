@@ -9,3 +9,8 @@
 
 - git checkout -b <branch_name> - Переключить ветку
 - git branch - Список веток
+
+- Мерджим в ветку master
+1. git commit -a - Коммит всех изменений в текущей ветке
+2. git checkout master - Переходим в ветку master 
+3. git merge <branch_name> - Мерджим ветку
