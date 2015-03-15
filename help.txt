@@ -1,4 +1,4 @@
-1. git config --gloabl user.email "apaxicko@gmail.com"
+﻿1. git config --global user.email "apaxicko@gmail.com"
 2. git config --global user.name "apaxicko"
 3. Перейти в директорию проекта
 4. git init 
